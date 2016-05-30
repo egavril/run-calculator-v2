@@ -1,0 +1,21 @@
+.fields {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.distance, .pace, .time {
+  padding-top: 1em;
+}
+
+#hoursInput {
+  margin-left: 1.4rem;
+}
+
+#calculateButton {
+  margin-top: 1em;
+}
+
+#paceOutput {
+  padding-right: .08rem;
+}
